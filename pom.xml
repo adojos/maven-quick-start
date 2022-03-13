@@ -8,6 +8,7 @@
   <artifactId>maven-quick-start</artifactId>
   <version>1.0</version>
   <properties>
+  	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   <!--  Maven Compiler (For>=Java8) Method 1: Using POM properties -->
     <maven.compiler.source>11</maven.compiler.source>
     <maven.compiler.target>11</maven.compiler.target>
